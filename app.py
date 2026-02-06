@@ -40,8 +40,6 @@ from newspaper import Article, Config
 import spacy
 from spacy import displacy
 import textstat
-from wordcloud import WordCloud
-import matplotlib.pyplot as plt
 import plotly.express as px
 import plotly.graph_objects as go
 
