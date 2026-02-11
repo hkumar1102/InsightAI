@@ -40,6 +40,7 @@ It is designed for analyzing long-form text such as reports, articles, legal doc
 
 ## 📁 Project Structure
 
+```bash
 .
 |
 ├── app.py # Main Streamlit application
@@ -51,6 +52,7 @@ It is designed for analyzing long-form text such as reports, articles, legal doc
 ├── .gitignore
 |
 └── README.md
+```
 
 ## Deployed Link
 
