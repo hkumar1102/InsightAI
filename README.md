@@ -120,15 +120,15 @@ http://localhost:8501
 ## 🧪 How to Use
 
 - Paste text or provide a URL
--Choose speed vs accuracy mode
--Click Initialize Pipeline
+- Choose speed vs accuracy mode
+- Click Initialize Pipeline
 
 ### Explore:
 
--Summaries
--Chat with document
--Analytics dashboard
--Downloadable report
+- Summaries
+- Chat with document
+- Analytics dashboard
+- Downloadable report
 
 ### 📈 Performance Notes
 
