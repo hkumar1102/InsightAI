@@ -42,15 +42,10 @@ It is designed for analyzing long-form text such as reports, articles, legal doc
 
 ```bash
 .
-|
 ├── app.py # Main Streamlit application
-|
 ├── requirements.txt # Python dependencies
-|
 ├── download\_nltk.py # Optional NLP setup script
-|
 ├── .gitignore
-|
 └── README.md
 ```
 
